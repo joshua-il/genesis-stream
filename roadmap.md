@@ -1,0 +1,4 @@
+- [x] Build the Genesis streaming discovery screen and chapter/story-arc catalog.
+- [x] Connect each catalog entry to an existing hosted stream and add a watch page.
+- [x] Add viewer sign-in, sign-up, and password recovery without profile storage.
+- [ ] Verify route rendering, playback link behavior, responsive layout, and preview health.
