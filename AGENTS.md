@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Application structure
+
+- Keep the public Genesis episode catalog in a browser-safe module and link episodes to their existing hosted streams, because source media remains managed on Visual Bible.
